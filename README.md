@@ -1,0 +1,2 @@
+# currencyCalc
+java project
